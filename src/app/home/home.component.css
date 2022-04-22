@@ -1,0 +1,74 @@
+.img{
+    /* height: 100%; */
+    background-size: cover;
+    width: auto;
+    background: url("/assets/img4.jpg");
+    margin-top: 1%;
+}
+
+
+.text {
+    color: #FFFFFF;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 51px;
+    font-weight: 800;
+    line-height: 64px;
+    text-shadow: 0px 0px 10px rgb(0 0 0 / 30%);
+}
+
+.row {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+b{
+    font-size: 1.90rem;
+    font-family: inherit;
+    font-weight: 500;
+    color: inherit;
+}
+
+.texto{
+    margin-top: 10px;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    font-size: 1.20rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #333;
+}
+
+.dividir1 {
+    background: #61CE70;
+    border-radius: 8px 0px 0px 8px;
+    width: 6px;
+    height: 100%;
+    position: absolute;
+    /* top: 0px; */
+    padding: 0rem 0rem 0rem 6px;
+    /* right: 93.9rem; */
+}
+
+.dividir2 {
+    background: #61CE70;
+    border-radius: 0px 0px 0px 0px;
+    width: 6px;
+    height: 100%;
+    position: absolute;
+    /* top: 0px; */
+    padding: 0rem 0rem 0rem 6px;
+    /* right: 70.9rem; */
+}
+
+.dividir3 {
+    background: #61CE70;
+    border-radius: 0px 8px 8px 0px;
+    width: 6px;
+    height: 100%;
+    position: absolute;
+    /* top: 0px; */
+    padding: 0rem 0rem 0rem 6px;
+    right: 1rem;
+}
